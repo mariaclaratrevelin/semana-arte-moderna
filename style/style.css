@@ -59,3 +59,108 @@ body{
     box-shadow: 0px 0px 15px #592A2A;
 }
 
+.paragrafo{
+    font-family: 'Typewriter Condensed';
+    font-size: 20px;
+    color: #26191E;
+    line-height: 1.6;
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.paragrafo-prin{
+    font-family: 'Typewriter Condensed';
+    font-size: 20px;
+    color: #8C6C5A;
+    line-height: 1.6;
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.img{
+    border: 3px solid #734E40;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 300px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.img{
+  display: inline-block;
+  margin-right: 25.5px; 
+  transition-duration: 0.4s;
+}
+
+.bloco-img{
+    margin-left: 265px;
+}
+
+.img:hover{
+    transform: translateY(-20px);
+    box-shadow: 0px 0px 15px #8C6C5A;
+}
+
+.card {
+    padding: 24px;
+    background-color: #8C6C5A;
+    color: #402C33;
+    border: 2.5px solid #734E40;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0 10px 30px rgba(20, 45, 70, 0.08);
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    transition-duration: 0.4s;
+}
+
+.card:hover{
+    transform: translateY(-20px);
+    box-shadow: 0px 0px 15px #8C6C5A;
+}
+
+.card-um {
+    padding: 24px;
+    background-color: #26191E;
+    border: 2.5px solid #734E40;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0 10px 30px rgba(20, 45, 70, 0.08);
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 25px;
+    width: 90%;
+    max-width: 1000px;
+    transition-duration: 0.4s;
+}
+
+.card-um:hover{
+    transform: translateY(-20px);
+    box-shadow: 0px 0px 15px #8C6C5A;
+}
+
+
+.titulo{
+    color: #592A2A;
+    font-family: 'Verve';
+    font-size: 50px;
+}
+
+.subtitulo{
+    color: #592A2A;
+    font-family: 'Verve';
+    font-size: 25px;
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.subtitulo-um{
+    color: #8C6C5A;
+    font-family: 'Verve';
+    font-size: 25px;
+     width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
