@@ -1,0 +1,10 @@
+
+@font-face{
+    font-family: 'Typewriter Condensed';
+    src: url(../fonts/typewcond_regular.otf) format('opentype');
+}
+
+@font-face{
+    font-family: 'Verve';
+    src: url(../fonts/Verve.ttf);
+}
