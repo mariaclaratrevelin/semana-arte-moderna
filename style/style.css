@@ -164,3 +164,11 @@ body{
     margin: 0 auto;
 }
 
+
+.rodape {
+    margin-top: 150px;
+    padding: 25px;
+    background-color: #8C6C5A;
+    color: #402C33;
+    text-align: center;
+}
